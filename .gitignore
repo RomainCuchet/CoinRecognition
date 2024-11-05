@@ -1,0 +1,6 @@
+venv/
+*tmp*
+*__pycache__*
+coins/
+THB-Currency-counter.v13i.voc.zip
+dataset/
